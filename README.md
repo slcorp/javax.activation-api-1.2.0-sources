@@ -1,6 +1,6 @@
 # javax.activation-api-1.2.0-sources
 
-This repo contains source code used create the javax.activation-api-1.3.0.jar, that is included with the RTView Solution Package for Solace, to support JAXB functionality for Java 9 and later.  This source was obtained from https://mvnrepository.com/artifact/javax.activation/javax.activation-api/1.2.0
+This repo contains source code used create the javax.activation-api-1.2.0.jar, that is included with the RTView Solution Package for Solace, to support JAXB functionality for Java 9 and later.  This source was obtained from https://mvnrepository.com/artifact/javax.activation/javax.activation-api/1.2.0
 
 ## Licensing and Governance
 
