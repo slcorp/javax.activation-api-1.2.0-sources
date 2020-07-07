@@ -1,1 +1,1 @@
-# https-mvnrepository.com-artifact-javax.activation-javax.activation-api-1.2.0
+# javax.activation-api-1.2.0-sources
